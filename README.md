@@ -1,4 +1,4 @@
-### Hi there 👋
+TypeScriptアンチ（学ぶ気力はある）
 
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
