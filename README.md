@@ -1,5 +1,9 @@
 TypeScriptアンチ（学ぶ気力はある）
 
+誰かリモート可の会社で雇ってください
+
+自分、フロントエンドならできます
+
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
