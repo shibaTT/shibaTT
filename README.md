@@ -4,6 +4,8 @@ TypeScriptアンチ（学ぶ気力はある）
 
 自分、フロントエンドならできます
 
+やらせてください
+
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
