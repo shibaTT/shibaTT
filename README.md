@@ -1,10 +1,14 @@
-TypeScriptアンチ（学ぶ気力はある）
+~~TypeScriptアンチ（学ぶ気力はある）~~
 
-誰かリモート可の会社で雇ってください
+TypeScriptの良さに気付いてきた
+
+誰かリモートの仕事ください
 
 自分、フロントエンドならできます
 
 やらせてください
+
+子供産まれたので全然コードかけてない　コードが恋しいよ
 
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
