@@ -8,6 +8,8 @@ TypeScriptが手放せなくなってきた←New
 
 自分、フロントエンドならできます
 
+自分パソコン買ったんでぼちぼちサービス開発がんばっていきます
+
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
