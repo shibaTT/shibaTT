@@ -1,14 +1,4 @@
-~~TypeScriptアンチ（学ぶ気力はある）~~
-
-TypeScriptの良さに気付いてきた
-
-TypeScriptが手放せなくなってきた←New
-
-誰かリモートの仕事ください
-
-自分、フロントエンドならできます
-
-自分パソコン買ったんでぼちぼちサービス開発がんばっていきます
+📩 You've got a mail!
 
 <!--
 **shibaTT/shibaTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
